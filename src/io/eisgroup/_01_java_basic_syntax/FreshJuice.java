@@ -2,10 +2,6 @@
  CONFIDENTIAL AND TRADE SECRET INFORMATION. No portion of this work may be copied, distributed, modified, or incorporated into any other media without EIS Group prior written consent.*/
 package io.eisgroup._01_java_basic_syntax;
 
-/**
- * @author Robertas Lasys
- * @since
- */
 public class FreshJuice {
     enum FreshJuiceSize {SMALL, MEDIUM, LARGE}
 

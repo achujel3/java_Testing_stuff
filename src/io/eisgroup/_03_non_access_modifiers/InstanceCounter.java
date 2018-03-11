@@ -2,10 +2,6 @@
  CONFIDENTIAL AND TRADE SECRET INFORMATION. No portion of this work may be copied, distributed, modified, or incorporated into any other media without EIS Group prior written consent.*/
 package io.eisgroup._03_non_access_modifiers;
 
-/**
- * @author Robertas Lasys
- * @since
- */
 public class InstanceCounter {
 
     private static int numInstances = 0;
